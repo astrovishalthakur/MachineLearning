@@ -7,7 +7,7 @@ This repo will be updated as new projects are added.
 
 ## For now, following models are here.
 
-### 1. Social_Network_Ads KNNClassifier.
+### 1. KNNClassifier.
 
 
 
