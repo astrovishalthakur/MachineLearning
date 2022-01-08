@@ -1,1 +1,1 @@
-Thsi folder will contain notebooks or folders related to k nearest neighbours
+Thisfolder will contain notebooks or folders related to k nearest neighbours
