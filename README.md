@@ -8,6 +8,7 @@ This repo will be updated as new projects are added.
 ## For now, following models are here.
 
 ### 1. KNNClassifier.
+### 2. RecommenderSystem Using Cosine similarity.
 
 
 
