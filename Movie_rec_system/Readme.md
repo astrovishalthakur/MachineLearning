@@ -3,3 +3,6 @@
 ## You will notice that similarity.pkl and movie-list.pkl are missing. 
 ##### I was unable to add them due to size being more than 25MB.
 ##### You can run the jupyter notebook provided above, and it will generate those files. You can copy - paste it to your project
+
+
+# Following Project is a Content Based Recommender System which uses cosine similarity to find similar data.
