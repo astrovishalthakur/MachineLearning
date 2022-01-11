@@ -3,7 +3,7 @@
 
 Following repo consists of some Machine learning models I created.
 
-This repo will be updated as new projects are added.
+This repo will be updated as new projects will be added.
 
 ## For now, following models are here.
 
