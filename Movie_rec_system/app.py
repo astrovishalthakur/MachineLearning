@@ -4,7 +4,7 @@ import pandas as pd
 import requests
 
 
-api_key = "73326928ce817d080bf46bdc0bc675b2"
+api_key = #put your own api key here.
 MOVIE_DB_IMAGE_URL = "http://image.tmdb.org/t/p/w185"
 MOVIE_DB_INFO_URL = "https://api.themoviedb.org/3/movie"
 
