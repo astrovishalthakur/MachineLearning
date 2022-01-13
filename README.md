@@ -9,7 +9,8 @@ This repo will be updated as new projects will be added.
 
 ### 1. KNNClassifier.
 ### 2. RecommenderSystem Using Cosine similarity.
-### 3. Decision Trees
+### 3. Decision Trees.
+### 4. Exploratory Data Analysis.
 
 
 
