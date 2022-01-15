@@ -6,4 +6,4 @@
 ##### You can run the jupyter notebook provided above, and it will generate those files. You can copy - paste it to your project.
 
 
-# Following Project is a Content Based Recommender System, a KNN based model which uses cosine similarity to find similar data.
+# <p>Following Project is a Content Based Recommender System, a KNN based model which uses cosine similarity to find similar data.</p>
