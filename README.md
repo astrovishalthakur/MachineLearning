@@ -8,7 +8,7 @@ This repo will be updated as new projects will be added.
 ## For now, following models/Topics are here.
 
 ### 1. KNNClassifier.
-### 2. RecommenderSystem Using Cosine similarity.
+### 2. Machine Learning Projects.
 ### 3. Decision Trees.
 ### 4. Exploratory Data Analysis.
 ### 5. Principal Component Analysis.
