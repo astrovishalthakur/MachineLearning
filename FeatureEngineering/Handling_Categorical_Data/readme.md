@@ -7,4 +7,4 @@
 
 # I have created notebooks to explain following techinques:
 1. Ordinal Encoding.
-2. OneHot Encoding.
+2. OneHot Encoding (notebook = NominalEncoding.ipynb).
