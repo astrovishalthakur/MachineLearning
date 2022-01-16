@@ -12,7 +12,8 @@ This repo will be updated as new projects will be added.
 ### 3. Decision Trees.
 ### 4. Exploratory Data Analysis.
 ### 5. Principal Component Analysis.
-### 6. Feature Engineering
+### 6. Feature Engineering.
+### 7. Kaggle Related Things.
 
 
 
