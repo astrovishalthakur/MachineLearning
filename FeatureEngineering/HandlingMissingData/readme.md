@@ -18,3 +18,6 @@ It creates a new column which have indicator (0/1, True/False) to tell wheter a 
 
 ### 6. Automatic Imputation
 It is basically doing GridSearchCV to find best imputation techniques with different Hyperparameters.
+
+### 7. KNNImputer
+It works on k nearest neighbours algorithm to determine missing value based on other values near to it.
