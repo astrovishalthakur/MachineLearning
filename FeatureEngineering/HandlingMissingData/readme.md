@@ -21,3 +21,6 @@ It is basically doing GridSearchCV to find best imputation techniques with diffe
 
 ### 7. KNNImputer
 It works on k nearest neighbours algorithm to determine missing value based on other values near to it.
+
+### 8. Iterative Imputer
+It's kind of long and based on repetition.
