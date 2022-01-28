@@ -15,7 +15,9 @@ This repo will be updated as new projects will be added.
 ### 6. Feature Engineering.
 ### 7. Kaggle Related Things.
 ### 8. Sklearn Features.
-
+### 9. Ensemble Learning.
+### 10. Regularization.
+### 11. Accuracy Evaluation.
 
 ## Authors
 
