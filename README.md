@@ -1,9 +1,9 @@
 
 # Machine Learning
 
-Following repo consists of some Machine learning models I created.
+Following repo consists of Machine learning related things I do and new topics I learn. (Almost daily now)
 
-This repo will be updated as new projects will be added.
+This repo will keep updating as I learn new things.
 
 ## For now, following models/Topics are here.
 
