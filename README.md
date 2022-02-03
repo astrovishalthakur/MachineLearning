@@ -19,6 +19,7 @@ This repo will keep updating as I learn new things.
 ### 10. Regularization.
 ### 11. Accuracy Evaluation.
 ### 12. Ensemble Learning.
+### 13. Clustering.
 
 ## Authors
 
