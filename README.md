@@ -20,6 +20,7 @@ This repo will keep updating as I learn new things.
 ### 11. Accuracy Evaluation.
 ### 12. Ensemble Learning.
 ### 13. Clustering.
+### 14. Gradient Descent.
 
 ## Authors
 
