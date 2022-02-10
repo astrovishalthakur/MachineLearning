@@ -21,6 +21,7 @@ This repo will keep updating as I learn new things.
 ### 12. Ensemble Learning.
 ### 13. Clustering.
 ### 14. Gradient Descent.
+### 15. Perceptron.
 
 ## Authors
 
