@@ -6,5 +6,5 @@
 ### Following folder consists of notebooks explaining various techniques to handle categorical data.
 
 # I have created notebooks to explain following techinques:
-1. Ordinal Encoding.
-2. OneHot Encoding (notebook = NominalEncoding.ipynb).
+1. Ordinal Encoding. (ordinal Encoder and label encoder)
+2. Nominal Encoding (onehotencoding).
