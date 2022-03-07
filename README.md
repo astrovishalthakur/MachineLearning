@@ -22,6 +22,8 @@ This repo will keep updating as I learn new things.
 ### 13. Clustering.
 ### 14. Gradient Descent.
 ### 15. Perceptron.
+### 16. Natural Language Processing.
+
 
 ## Authors
 
