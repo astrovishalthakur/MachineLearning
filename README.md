@@ -5,7 +5,7 @@ Following repo consists of Machine learning related things I do and new topics I
 
 This repo will keep updating as I learn new things.
 
-## For now, following models/Topics are here.
+## For now, following models/Topics are here numbered in the order I learned them.
 
 ### 1. KNNClassifier.
 ### 2. Machine Learning Projects.
